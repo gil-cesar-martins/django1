@@ -17,7 +17,7 @@ SECRET_KEY = 'django-insecure-%vec$l38#$)d=lfuvzf0fnd7wqo_c6j$0650x-b*52s_6%4be!
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] # www.deixeaquionome.com.br
+ALLOWED_HOSTS = ['https://django1-gcmsj.herokuapp.com'] # www.deixeaquionome.com.br
 
 
 # Application definition
